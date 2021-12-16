@@ -2,7 +2,7 @@ body {font-family:
     Arial, Helvetica, sans-serif; 
     margin: 0; font-weight: lighter;}
 
-.top {background-image: url(depan.jpg); 
+.top {background-image: depan.jpg; 
     background-size: cover; 
     height: 90vh; 
     opacity: 90%; 
